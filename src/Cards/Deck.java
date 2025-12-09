@@ -11,7 +11,6 @@ public class Deck {
         this.deck = new Stack<>();
         restore();
         shuffle();
-        s faegkubwaf B P UEh c  òi  pob wib yueb8 qwcp9 bqclb y
     }
 
     public void restore(){
